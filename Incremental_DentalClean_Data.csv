@@ -1,0 +1,99 @@
+﻿Modern Country;Sex ;Min. Age Individual (Years);Max. Age Individual (Years);Social Status;Culture;Min. Date (CE) (95%);Max. Date (CE) (95%);Nr. of Analysed Tooth Samples; δ13C Collagen
+England;M;6;11;Low; Irish;1843;1854;10;-21.5
+England;F;18;100;Low;  English;1700;1900;10;-21.4
+England;M;6;11;Low; Irish;1843;1854;10;-21.3
+England;M;6;11;Low; Irish;1843;1854;10;-21.2
+England;M;18;25;Low;  English;1700;1900;10;-21.2
+England;M;32;32;High;  English;1485;1485;7;-20.7
+England;F;12;17;Low; Irish;1843;1854;14;-20.3
+England;F;22;25;Low;  English;1000;1500;3;-19.6
+England;M;18;100;Low;  English;1700;1900;10;-19.3
+England;F;22;24;Low;  English;1000;1500;4;-19.2
+England;F;22;24;Low;  English;1000;1500;3;-19.2
+England;M;26;35;High;  English;1308;1539;17;-19.2
+England;M;26;35;High;  English;1308;1539;17;-19.1
+England;M;26;35;High;  English;1308;1539;17;-19
+England;M;36;45;High;  English;1356;1538;15;-19
+England;M;32;32;High;  English;1485;1485;1;-18.9
+England;M;32;32;High;  English;1485;1485;7;-18.5
+England;M;13;17;Low;  English;1700;1900;10;-18.2
+England;M;13;17;Low;  English;1700;1900;10;-18.2
+England;F;18;100;Low;  English;1700;1900;10;-18
+England;M;18;25;Low;  English;1700;1900;10;-17.4
+England;F;36;45;Low;  English;1700;1900;10;-17.4
+England;M;13;17;Low;  English;1700;1900;10;-16.9
+England;M;26;35;Low;  English;1700;1900;10;-16.8
+Ireland;M;38;63;Low; Irish;1845;1846;16;-21.7
+Ireland;M;38;63;Low; Irish;1845;1846;16;-21.4
+Ireland;M;35;40;Low; Irish;1845;1846;17;-21.1
+Ireland;F;30;55;Low; Irish;1845;1846;20;-21.1
+Ireland;M;39;70;Low; Irish;1845;1846;17;-21.1
+Ireland;M;29;48;Low; Irish;1845;1846;17;-21
+Ireland;M;21;35;Low; Irish;1845;1846;19;-20.4
+Ireland;F;29;51;Low; Irish;1845;1846;17;-20.4
+Ireland;M;23;37;Low; Irish;1845;1846;14;-20.2
+Ireland;M;32;52;Low; Irish;1845;1846;12;-20.2
+Ireland;M;32;52;Low; Irish;1845;1846;12;-20.2
+Ireland;F;20;30;Low; Irish;1845;1846;17;-20.1
+Ireland;M;37;63;Low; Irish;1845;1846;16;-19.9
+Ireland;F;21;38;Low; Irish;1845;1846;13;-19.8
+Ireland;F;21;38;Low; Irish;1845;1846;13;-19.7
+Ireland;F;29;51;Low; Irish;1845;1846;17;-19.7
+Ireland;F;21;38;Low; Irish;1845;1846;13;-19.6
+Ireland;F;21;38;Low; Irish;1845;1846;13;-19.6
+Ireland;F;20;30;Low; Irish;1845;1846;17;-19.5
+Japan;F;77;77;High;Japanese;1732;1732;18;-19.6
+Japan;F;77;77;High;Japanese;1732;1732;18;-19.5
+Japan;F;77;77;High;Japanese;1732;1732;16;-19.4
+Japan;F;77;77;High;Japanese;1732;1732;16;-19.4
+Japan;F;77;77;High;Japanese;1732;1732;18;-19.3
+Japan;F;77;77;High;Japanese;1732;1732;18;-19.3
+Japan;F;77;77;High;Japanese;1732;1732;18;-19.3
+Japan;F;77;77;High;Japanese;1732;1732;18;-19.1
+Japan;F;77;77;High;Japanese;1732;1732;18;-19.1
+Japan;F;77;77;High;Japanese;1732;1732;16;-19
+Japan;F;77;77;High;Japanese;1732;1732;16;-19
+Japan;F;77;77;High;Japanese;1732;1732;18;-18.7
+Sudan;F;18;100;High;"Nubian; Meroitic";1;400;14;-17.6
+Sudan;F;18;100;High;"Nubian; Meroitic";1;400;14;-17.4
+Sudan;F;18;100;High;"Nubian; Meroitic";1;400;14;-17
+Sudan;F;18;100;High;"Nubian; Meroitic";1;400;14;-16.9
+Sudan;F;18;100;High;"Nubian; Meroitic";1;400;14;-16.8
+Sudan;F;18;100;High;"Nubian; Meroitic";1;400;14;-16.8
+Sudan;F;18;100;High;"Nubian; Meroitic";1;400;14;-16.7
+Sudan;M;18;100;High;"Nubian; Meroitic";1;400;13;-14.6
+Sudan;M;18;100;High;"Nubian; Meroitic";1;400;13;-14.3
+Sudan;M;18;100;High;"Nubian; Meroitic";1;400;13;-13.7
+Sudan;M;18;100;High;"Nubian; Meroitic";1;400;13;-13.2
+USA;F;20;29;High;American;1750;1850;3;-15.6
+USA;F;20;29;High;American;1750;1850;3;-15.4
+USA;F;20;29;High;American;1750;1850;3;-15.4
+USA;M;20;25;High;American;1750;1850;3;-15.3
+USA;M;20;25;High;American;1750;1850;3;-14.9
+USA;M;20;25;High;American;1750;1850;3;-14.9
+USA;F;20;29;High;American;1750;1850;3;-14.8
+USA;F;20;29;High;American;1750;1850;3;-14.7
+USA;F;35;35;Low; Spanish;1605;1680;8;-14.3
+USA;F;20;29;High;American;1750;1850;3;-13.9
+USA;M;30;39;High;American;1750;1850;3;-13.6
+USA;M;30;39;High;American;1750;1850;3;-13.6
+USA;F;35;35;Low; Spanish;1605;1680;8;-13.4
+USA;F;35;35;Low; Spanish;1605;1680;8;-13.3
+USA;M;30;39;High;American;1750;1850;3;-13.3
+USA;F;25;34;High;American;1750;1850;3;-13.1
+USA;M;29;29;Low; Spanish;1605;1680;8;-10.2
+USA;M;29;29;Low; Spanish;1650;1680;4;-10.1
+USA;M;29;29;Low; Spanish;1650;1680;4;-10
+USA;F;40;40;Low; Spanish;1650;1680;7;-9.8
+USA;F;40;40;Low; Spanish;1650;1680;7;-9.6
+USA;M;29;29;Low; Spanish;1605;1680;8;-9.5
+USA;F;40;40;Low; Spanish;1650;1680;7;-9.4
+USA;F;40;40;Low; Spanish;1650;1680;7;-9.3
+USA;M;29;29;Low; Spanish;1605;1680;8;-9.3
+USA;M;29;29;Low; Spanish;1650;1680;4;-9.1
+USA;M;29;29;Low; Spanish;1605;1680;8;-8.9
+USA;M;29;29;Low; Spanish;1605;1680;8;-8.7
+USA;M;29;29;Low; Spanish;1650;1680;4;-8.7
+USA;M;29;29;Low; Spanish;1605;1680;8;-8.2
+USA;M;29;29;Low; Spanish;1605;1680;8;-7.8
+USA;M;29;29;Low; Spanish;1605;1680;8;-7.4
